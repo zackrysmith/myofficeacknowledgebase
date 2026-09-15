@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "Install Office 365 Already Purchased: Complete Microsoft 365 Setup & Activation Guide to Get Started"
+html_title = "Microsoft Office Home and Student 2024 & Office.com/Setup Home & Student 2021: Download, Product Key & Setup Guide"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
